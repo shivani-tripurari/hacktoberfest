@@ -1,3 +1,8 @@
+
+#### Name: [Shivani](https://github.com/shivani-tripurari)
+- Place: Hyderabad, India
+- Bio: Coffee lover blending beans and existential dreams
+- GitHub: [shivani-tripurari](https://github.com/shivani-tripurari)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
